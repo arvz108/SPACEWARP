@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>asteroid-big-0000.png</Source>
+      <Name>asteroid-big-0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\asteroid-big-0000.xnb</Output>
+      <Time>2014-02-20T22:52:10.3573684+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceship1.png</Source>
+      <Name>Spaceship1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Spaceship1.xnb</Output>
+      <Time>2014-03-24T19:57:06.0472124+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playerbullet.png</Source>
+      <Name>playerbullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\playerbullet.xnb</Output>
+      <Time>2014-03-29T12:38:00.3238521+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bg5.png</Source>
+      <Name>bg5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\bg5.xnb</Output>
+      <Time>2014-03-24T20:59:43.2294972+00:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbar.png</Source>
+      <Name>healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\healthbar.xnb</Output>
+      <Time>2014-03-29T13:03:21.9150721+00:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyship.png</Source>
+      <Name>enemyship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\enemyship.xnb</Output>
+      <Time>2014-03-25T10:49:06.988744+00:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyBullet.png</Source>
+      <Name>EnemyBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\EnemyBullet.xnb</Output>
+      <Time>2014-03-25T00:50:55.6166947+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Corbel.spritefont</Source>
+      <Name>Corbel</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Corbel.xnb</Output>
+      <Time>2014-03-25T11:48:52.94327+00:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion3.png</Source>
+      <Name>explosion3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explosion3.xnb</Output>
+      <Time>2014-03-25T21:07:33.6995791+00:00</Time>
+    </Item>
+    <Item>
+      <Source>explode.wav</Source>
+      <Name>explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explode.xnb</Output>
+      <Time>2014-03-29T12:54:24.8886972+00:00</Time>
+    </Item>
+    <Item>
+      <Source>playershoot.wav</Source>
+      <Name>playershoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\playershoot.xnb</Output>
+      <Time>2014-03-29T12:54:24.8937006+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.mp3</Source>
+      <Name>bg</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\bg.xnb</Output>
+      <Extra>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\bg.wma</Extra>
+      <Time>2014-03-29T13:14:05.0972658+00:00</Time>
+    </Item>
+    <Item>
+      <Source>menustart.png</Source>
+      <Name>menustart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\menustart.xnb</Output>
+      <Time>2014-03-29T15:21:24.4807946+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.png</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2014-03-29T16:13:02.4173342+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Arvin\Documents\Visual Studio 2010\Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-20T13:32:48.8276898+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
